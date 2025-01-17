@@ -1,8 +1,8 @@
 # Creating-a-Database-Framework-using-AVL-Trees
 Using the concept of AVL Trees to create a database of a person using the C language.
 
-Author: Neev Mittal
-Title: Person Database using AVL Tree
+Author: Neev Mittal <br>
+Title: Person Database using AVL Tree <br>
 Version: 1.0
 
 
